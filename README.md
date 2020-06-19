@@ -14,7 +14,7 @@ The number guessing game is a game played against the computer that's running on
 4) Click **a** on terminal to run on Android emulator <br>
 
 ## Game Rules ###
-1) The user enters a number between **1-100** and click the **confirm* button. <br>
+1) The user enters a number between **1-100** and click the **confirm** button. <br>
 2) Entered number must be **2** digits without decimal values. <br>
 3) The user guides the number predicted by the computer by clicking the **lower** or **large** buttons. <br>
 4) The user will receive a **alert** message if he / she makes a wrong route. <br>
